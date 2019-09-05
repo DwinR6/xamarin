@@ -13,5 +13,6 @@ namespace learnXamarin1
         {
             InitializeComponent();
         }
+        private void Btn9_Clicked(object sender, EventArgs e);
     }
 }

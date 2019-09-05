@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnXamarin1.Android", "learnXamarin1\learnXamarin1.Android\learnXamarin1.Android.csproj", "{1D1198F1-A6E8-44C6-9FEB-9B09CAC76266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnXamarin1", "learnXamarin1\learnXamarin1\learnXamarin1.csproj", "{C4F15DFE-A689-491D-BF18-EF06BA466EE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learnXamarin1", "learnXamarin1\learnXamarin1\learnXamarin1.csproj", "{C4F15DFE-A689-491D-BF18-EF06BA466EE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
