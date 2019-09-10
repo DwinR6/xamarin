@@ -13,6 +13,15 @@ namespace learnXamarin1
         {
             InitializeComponent();
         }
-        
+
+       
+        void OnNewButtonClicked(Object sender, EventArgs e)
+        {
+
+        }
+        void GetAllPeopleClicked(Object sender, EventArgs e)
+        {
+
+        }
     }
 }
