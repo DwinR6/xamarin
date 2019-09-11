@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using SQLite;
 using learnXamarin1.Models;
+using 
 
 namespace learnXamarin1
 {
@@ -47,6 +48,10 @@ namespace learnXamarin1
                         $"{result} registro agregado [Nombre: " +
                         $"{newPerson.Name}, ID:{newPerson.Id}";
                 }
+            }
+            public List<Person> GetAllPeople()
+            {
+                return conn.Table<Person>().ToList();
             }
             
         }
